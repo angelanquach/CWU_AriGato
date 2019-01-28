@@ -499,6 +499,9 @@ class MyClass(GeneratedClass):
             <Link inputowner="5" indexofinput="2" outputowner="2" indexofoutput="6" />
             <Link inputowner="6" indexofinput="2" outputowner="2" indexofoutput="7" />
             <Link inputowner="7" indexofinput="2" outputowner="2" indexofoutput="8" />
+            <Link inputowner="0" indexofinput="4" outputowner="5" indexofoutput="4" />
+            <Link inputowner="0" indexofinput="4" outputowner="6" indexofoutput="4" />
+            <Link inputowner="0" indexofinput="4" outputowner="7" indexofoutput="4" />
           </Diagram>
         </BehaviorKeyframe>
       </BehaviorLayer>
